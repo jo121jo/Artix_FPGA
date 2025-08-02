@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Aug  1 11:47:41 2025
+# Process ID         : 17900
+# Current directory  : C:/Users/joshu/OneDrive/Documents/FPGA_Projects/Artix_FPGA/Aritx7_LED/Artix7_LED/Artix7_LED.runs/impl_1
+# Command line       : vivado.exe -log A7_LED.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source A7_LED.tcl -notrace
+# Log file           : C:/Users/joshu/OneDrive/Documents/FPGA_Projects/Artix_FPGA/Aritx7_LED/Artix7_LED/Artix7_LED.runs/impl_1/A7_LED.vdi
+# Journal file       : C:/Users/joshu/OneDrive/Documents/FPGA_Projects/Artix_FPGA/Aritx7_LED/Artix7_LED/Artix7_LED.runs/impl_1\vivado.jou
+# Running On         : JOSHUA
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : AMD Ryzen 5 5600H with Radeon Graphics         
+# CPU Frequency      : 3294 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 14877 MB
+# Swap memory        : 15032 MB
+# Total Virtual      : 29909 MB
+# Available Virtual  : 15793 MB
+#-----------------------------------------------------------
+source A7_LED.tcl -notrace
